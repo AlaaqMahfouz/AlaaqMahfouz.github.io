@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlaaqMahfouz/appfun.git/static/css/main.975b9926.css",
+    "main.js": "/AlaaqMahfouz/appfun.git/static/js/main.28999bf7.js",
+    "static/js/787.b5c8e84d.chunk.js": "/AlaaqMahfouz/appfun.git/static/js/787.b5c8e84d.chunk.js",
+    "static/media/logo.svg": "/AlaaqMahfouz/appfun.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AlaaqMahfouz/appfun.git/index.html",
+    "main.975b9926.css.map": "/AlaaqMahfouz/appfun.git/static/css/main.975b9926.css.map",
+    "main.28999bf7.js.map": "/AlaaqMahfouz/appfun.git/static/js/main.28999bf7.js.map",
+    "787.b5c8e84d.chunk.js.map": "/AlaaqMahfouz/appfun.git/static/js/787.b5c8e84d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975b9926.css",
+    "static/js/main.28999bf7.js"
+  ]
+}
